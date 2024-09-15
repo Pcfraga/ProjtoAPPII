@@ -1,0 +1,35 @@
+[33mcommit e96363ead0323484d85e02edf9a9af8324d71a24[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: pc.defraga <pc.defraga@gmail.com>
+Date:   Sat Sep 14 19:07:30 2024 +0000
+
+    Descrição das alterações feitas nos arquivos main.dart, tarefas_screen.dart e task_form_screen.dart
+
+[33mcommit 5f98ac6c0513885352013f008ffb082c8204cba1[m
+Author: pc.defraga <pc.defraga@gmail.com>
+Date:   Sat Sep 14 17:27:20 2024 +0000
+
+    Operando
+
+[33mcommit 4addc89156275b5dc59e8659563ee239c95d8547[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: pc.defraga <pc.defraga@gmail.com>
+Date:   Fri Sep 13 18:32:10 2024 +0000
+
+    Autenticando
+
+[33mcommit c90e624166ec6a096da0c8d8ec6a533e16632329[m
+Author: Paulo Fragae <pc.defraga@gmail.com>
+Date:   Thu Sep 12 22:05:45 2024 -0300
+
+    Banco de dados
+
+[33mcommit e9adabaf6cce6d596701fa8837caff58309806f8[m
+Author: Paulo Fragae <pc.defraga@gmail.com>
+Date:   Thu Sep 12 19:30:45 2024 -0300
+
+    Commit inicial
+
+[33mcommit e7abd3142a5cb0aa5d088bcc137d4aa80eca0ca3[m
+Author: pc.defraga <pc.defraga@gmail.com>
+Date:   Tue Sep 10 16:40:15 2024 +0000
+
+    Initial commit
